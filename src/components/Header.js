@@ -83,7 +83,7 @@ const Header = () => {
         }}
       >
         <h1 style={{ color: "#fff", fontSize: "24px", fontWeight: "bold" }}>
-          RecipeVault
+          Recipe
         </h1>
 
         {/* Toggle Button for Mobile */}
